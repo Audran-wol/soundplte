@@ -1,0 +1,67 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
+h1{
+  font-size: 5rem;
+  color: #2B2B2B;
+  font-family: "Permanent Maker", sans-serif;
+  text-shadow: 3px 0 #DA0463;
+}
+
+footer{
+  color: #2B2B2B;
+  font-family: "Permanent Maker", sans-serif;
+  padding-top: 13%;
+}
+
+.w{
+  background-image: url("images/babe.png");
+}
+
+.a {
+  background-image: url("images/girls.png");
+}
+
+.s{
+  background-image: url("images/quavo.png");
+}
+
+.d{
+  background-image: url("images/Madinson.png");
+}
+
+.j {
+  background-image: url("images/Mask.png");
+}
+
+.k {
+  background-image: url("images/Michael.png");
+}
+
+.l{
+  background-image: url("images/Tentacion.png");
+}
+
+.set{
+  margin: 10% auto;
+}
+.sound {
+outline: none;
+border: 10px solid #404B69;
+font-size: 5rem;
+font-family: "Permanent Maker", sans-serif;
+line-height: 2;
+font-weight: 900;
+color: #171717;
+text-shadow: 3px 0 #DBEDF3;
+border-radius: 15px;
+display: inline-block;
+width: 150px;
+height: 150px;
+text-align: center;
+margin: 10px;
+background-color: white;
+
+}
